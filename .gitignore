@@ -1,2 +1,4 @@
-./dataset/**/*
-./dataset/*
+/dataset/*
+/checkpoint
+/best_trained_model
+/trained_model
