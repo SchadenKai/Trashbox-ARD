@@ -1,3 +1,5 @@
 /dataset/*
 /checkpoint
 /trained_model
+/best_trained_models
+/runs
