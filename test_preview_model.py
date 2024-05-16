@@ -17,5 +17,9 @@ import torchattacks
 import matplotlib.pyplot as plt
 
 
-model = models.vgg16()
+model = models.mobilenet_v3_small(weights=None)
+# model = model.features[:13]
+
+
+# model = models.vgg19()
 print(model)
