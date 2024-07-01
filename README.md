@@ -1,7 +1,7 @@
 # Trashbox-ARD
 Thesis Title: Commpressed and Adversarially Robust Solid Waste Image Classification Model using Adversarially Robust Distillation (ARD)
 
-![conceptual_framework](docs\conceptual_framework.png)
+![conceptual_framework](./docs/conceptual_framework.png)
 
 ## Requirements
 1. Powerful machine - since Adversarial Training and ARD really is computationally intensive. The TrashboxARD thesis proposal has been trained with RTX 3060 Ti.
